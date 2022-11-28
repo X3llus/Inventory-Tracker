@@ -1,2 +1,2 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<h1 class="mt-8 w-full text-center text-5xl">Welcome to Inventory Management Tool</h1>
+<h2 class="mt-2 w-full text-center text-3xl">Track your stores inventory</h2>
